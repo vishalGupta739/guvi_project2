@@ -1,0 +1,13 @@
+Hospital Name,City,Region,Total Beds,Occupied Beds,Available Beds,Occupancy Rate (%)
+Seaside Health,Miami,South,200,195,5,97.5
+Lone Star General,Houston,South,275,265,10,96.4
+Pinecrest Medical Center,Seattle,West,175,160,15,91.4
+Desert Springs Hospital,Phoenix,West,190,170,20,89.5
+St. Mary's Regional,Boston,Northeast,300,280,20,93.3
+Bayview Medical Center,San Francisco,West,220,190,30,86.4
+Central General Hospital,New York,Northeast,350,320,30,91.4
+Midtown Medical,Atlanta,South,210,180,30,85.7
+Mountainview Medical,Denver,West,150,120,30,80.0
+River Valley Hospital,Dallas,South,240,210,30,87.5
+Westside Care,Los Angeles,West,260,230,30,88.5
+Lakeside Community Hospital,Chicago,Midwest,180,140,40,77.8
